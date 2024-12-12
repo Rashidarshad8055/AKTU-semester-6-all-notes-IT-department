@@ -12,7 +12,7 @@ Comprehensive notes: Well-organized notes on each subject based on the AKTU syll
 Topics covered: Key concepts, algorithms, code snippets, and real-world examples.
 Exam-focused: Designed to help students in exam preparation with clear explanations and summaries.
 Usage
-Download or clone the repository to your local machine.
+.Download or clone the repository to your local machine.
 Navigate through the folder corresponding to each subject.
 Open the notes in any text editor or PDF reader.
 Use the notes to revise and clarify concepts for your exams or assignments.
