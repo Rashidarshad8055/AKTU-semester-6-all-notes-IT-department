@@ -16,40 +16,8 @@ Download or clone the repository to your local machine.
 Navigate through the folder corresponding to each subject.
 Open the notes in any text editor or PDF reader.
 Use the notes to revise and clarify concepts for your exams or assignments.
-Folder Structure
-markdown
-Copy code
-/AKTU_6th_Semester_Notes
-│
-├── Software_Engineering
-│   ├── Lecture_Notes_1.pdf
-│   ├── Lecture_Notes_2.pdf
-│   └── ...
-│
-├── Data_Structures_and_Algorithms
-│   ├── Lecture_Notes_1.pdf
-│   ├── Lecture_Notes_2.pdf
-│   └── ...
-│
-├── Operating_Systems
-│   ├── Lecture_Notes_1.pdf
-│   ├── Lecture_Notes_2.pdf
-│   └── ...
-│
-├── Database_Management_Systems
-│   ├── Lecture_Notes_1.pdf
-│   ├── Lecture_Notes_2.pdf
-│   └── ...
-│
-├── Computer_Networks
-│   ├── Lecture_Notes_1.pdf
-│   ├── Lecture_Notes_2.pdf
-│   └── ...
-│
-└── Web_Technologies
-    ├── Lecture_Notes_1.pdf
-    ├── Lecture_Notes_2.pdf
-    └── ...
+
+
 Contribution
 If you have any suggestions for improving the notes, feel free to fork the repository and submit a pull request. Contributions are always welcome!
 
