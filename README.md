@@ -17,7 +17,6 @@ Navigate through the folder corresponding to each subject.
 Open the notes in any text editor or PDF reader.
 Use the notes to revise and clarify concepts for your exams or assignments.
 
-
 Contribution
 If you have any suggestions for improving the notes, feel free to fork the repository and submit a pull request. Contributions are always welcome!
 
